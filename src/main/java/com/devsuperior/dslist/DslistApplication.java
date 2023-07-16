@@ -3,6 +3,7 @@ package com.devsuperior.dslist;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+
 @SpringBootApplication
 public class DslistApplication {
 
@@ -10,4 +11,5 @@ public class DslistApplication {
 		SpringApplication.run(DslistApplication.class, args);
 	}
 
+			
 }
